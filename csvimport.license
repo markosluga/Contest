@@ -1,4 +1,4 @@
-The csvimport.py file is adopted from the AWS samples git page https://github.com/aws-samples/csv-to-dynamodb
+The csvimport.py file is adopted from the AWS samples fork at https://github.com/markosluga/csv-to-dynamodb
 
 This copyright applies to csvimport.py
 
